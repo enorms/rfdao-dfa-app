@@ -64,7 +64,7 @@ I was quite pleased to go from no understanding of computer science to being a T
 ## When and how did the founders meet? Have you worked on other projects together in the past?
 ### Skip this question if you're a solo founder.
 
-Eric met Luke in 2015 when going through YC as Luke was the first hardware partner. They discuss crypto and projects, and are colleagues as Pioneer Fund SVPs. They met Ryan in OrangeDAO and were all excited by the ability to use crypto to fundamentally change how new products and features, perhaps fundraising itself, is done.
+Eric met Luke in 2015 when going through YC as Luke was the first director of hardware. They discuss crypto and projects, and are colleagues as Pioneer Fund SVPs. They met Ryan in OrangeDAO and were all excited by the ability to use crypto to fundamentally change how new products and features, perhaps fundraising itself, is done.
 
 
 ## What ecosystem are you building on?
